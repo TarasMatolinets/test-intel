@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aura</string>
+    <string name="no_boots_detected">No boots detected</string>
+    <string name="single_boot">“The boot was detected with the timestamp = %1$d</string>
+    <string name="multiple_boots">Last boots time delta = %1$d</string>
+    <string name="boots_time">%1$d - %1$d</string>
+    <string name="pref_key">shared-pref-key</string>
+    <string name="no_value">No Value</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="channel_description">channel_description</string>
+    <string name="notification_id">notification_id</string>
+
+</resources>
